@@ -8,8 +8,8 @@ public class DBUtil {
     static public Connection getConnection() throws SQLException {
         Connection connection = null;
         String url = "jdbc:mysql://localhost:3306/artgallery";
-        String userName = "root";
-        String password = "HolyJesus#7%";
+        String userName = "mysql_password";
+        String password = "mysql_password";
 
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
