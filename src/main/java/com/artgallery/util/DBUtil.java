@@ -8,7 +8,7 @@ public class DBUtil {
     static public Connection getConnection() throws SQLException {
         Connection connection = null;
         String url = "jdbc:mysql://localhost:3306/artgallery";
-        String userName = "mysql_password";
+        String userName = "mysql_userName";
         String password = "mysql_password";
 
         try {
