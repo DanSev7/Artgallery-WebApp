@@ -1,3 +1,6 @@
+**ArtGallery-WebApp**
+A comprehensive, full-stack Java Servlet ArtGallery WebApp Project.
+
 # App Configuration
 
 ## Pre Configuration to run
